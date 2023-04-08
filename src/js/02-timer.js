@@ -18,6 +18,7 @@ Report.info(
   'Okay'
 );
 
+
 flatpickr(calendar, {
   enableTime: true,
   time_24hr: true,
